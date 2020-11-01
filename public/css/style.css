@@ -1,0 +1,31 @@
+body
+{
+    padding-top: 20%;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+background: rgb(88,235,149);
+background: linear-gradient(90deg, rgba(88,235,149,1) 0%, rgba(42,202,117,0.8214636196275386) 0%, rgba(107,246,75,0.40129555240064774) 100%);
+}
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 4px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+  }
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #17caf7f6;
+    color: white;
+  }
