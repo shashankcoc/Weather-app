@@ -1,5 +1,6 @@
 # Weather-app
 A weather app using API tells the temperature of different cities.
+Weather APIs are Application Programming Interfaces that allow you to connect to large databases of weather forecast and historical information.
 
 # Weather-app
 A weather app using API tells the temperature of different cities.
